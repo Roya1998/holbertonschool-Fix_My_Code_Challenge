@@ -1,1 +1,1 @@
-# Fix-my-code-0
+This file is created to fix the bugs in the given project.
